@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.modal {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #1d1d1d6b 
+}
+
+.modalBody {
+    width: 50%;
+    height: 175px;
+    border-radius: 10px;
+    background: #dee760;
+    transform: translate(50%,90%)
+}
+
+.modalTitle {
+    padding-top: 2rem;
+}
+
+.modaButton {
+    margin-top: 4rem;
+}
+
+.hide {
+    display: none;
+}
